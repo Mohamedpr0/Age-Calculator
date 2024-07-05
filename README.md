@@ -10,3 +10,5 @@ Run the program and enter your birthdate when prompted in the format YYYY-MM-DD.
 python age_calculator.py
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+# License
+MIT
