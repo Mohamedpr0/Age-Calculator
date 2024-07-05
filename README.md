@@ -19,3 +19,4 @@ This program utilizes Python's datetime module for date calculations.
 The Age Calculator Python program allows users to input their birthdate and calculates their age in various time units up to the current date and time. It's a simple yet useful tool for understanding how much time has passed since one's birth.
 
 # Purpose:
+The program serves as a practical example of using Python's datetime module for date arithmetic and handling user input. It can be used in educational contexts to demonstrate basic date calculations or as a starting point for more complex date-related applications.
