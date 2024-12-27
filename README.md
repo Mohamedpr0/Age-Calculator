@@ -1,5 +1,5 @@
 # Age-Calculator
-This Python program calculates your age in days, hours, minutes, and seconds based on your birthdate
+This  Python program calculates your age in days, hours, minutes, and seconds based on your birthdate
 
 # Installation
 Clone the repository to your local machine:
